@@ -4,5 +4,6 @@ module.exports = {
   prompt: {
     useEmoji: true
     //option...
-  }
+  },
+  extends: ['@commitlint/config-conventional']
 }
